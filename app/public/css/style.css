@@ -1,5 +1,7 @@
 body{
-    background-image: url("./images/nebula.jpg")
+    background-image: url("./images/nebula-1920x1080-stars-4k-9352.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 form{
